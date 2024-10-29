@@ -32,3 +32,5 @@ Interop.IWshRuntimeLibrary.dll
 lualibdll.dll
 mfc80.dll
 microsoft.vc80.crt.manifest
+*.csv
+*.xlsx
