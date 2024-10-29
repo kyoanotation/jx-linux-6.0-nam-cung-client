@@ -1,6 +1,7 @@
 .git
 *.log
 .vscode
+pic/
 data/
 Logs/
 music/
